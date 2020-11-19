@@ -27,3 +27,8 @@ samples, guidance on mobile development, and a full API reference.
 ![Simulator Screen Shot - XsMax iOS 14 0 - 2020-11-19 at 01 59 34](https://user-images.githubusercontent.com/12699008/99632353-13324300-2a0b-11eb-802a-d134701dec3f.png)
 
 ![Adding few more trnsactions to see graph changes](https://user-images.githubusercontent.com/12699008/99632361-162d3380-2a0b-11eb-835f-8538aeda0f50.png)
+
+<img src="https://img.shields.io/github/languages/top/silent-lad/VueSolitaire.svg">
+<img src="https://user-images.githubusercontent.com/12699008/99632361-162d3380-2a0b-11eb-835f-8538aeda0f50.png" width="100" height="400">
+
+<img src="https://user-images.githubusercontent.com/12699008/99632361-162d3380-2a0b-11eb-835f-8538aeda0f50.png" width="100" height="400" />
