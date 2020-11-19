@@ -7,9 +7,18 @@ This application helps monitor your expense costs efficiently. This functionalit
 
 
 ## Things to do
-- [ ] Add TextField/Form validators and Dialog Alerts where applicable.
+ |  
+ --- | ---
+- [x] Manual expense input | - [ ] Add TextField/Form validators and Dialog Alerts where applicable.
+- [x] Manual expense input
+- [x] Manual expense input
+
+
 - [ ] Integrate Firebase database.
+- [ ] Authentication & User Management
 - [ ] Implement Bloc/Provider State Manager. 
+- [ ] In future implement Plaid API or similar to fetch user's bank details for automation & analysis => develop extended charts and graphs for visualization
+- [ ] Notification center
 
 
 
