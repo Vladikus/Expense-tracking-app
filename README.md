@@ -9,8 +9,8 @@ This application helps monitor your expense costs efficiently. This functionalit
 
 ## Things to do
 - [x] Manual expense input
-- [x] Visual representation of expenses for the week
-- [x] Delete transaction finctionality
+- [x] Visual representation(chart) of expenses for the week
+- [x] Delete transaction functionality
 
 - [ ] Add TextField/Form validators and Dialog Alerts where applicable.
 - [ ] Integrate Firebase database.
