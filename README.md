@@ -7,7 +7,7 @@ This application helps monitor your expense costs efficiently. This functionalit
 
 
 ## Things to do
- |  
+done | to do 
  --- | ---
 - [x] Manual expense input | - [ ] Add TextField/Form validators and Dialog Alerts where applicable.
 - [x] Manual expense input
