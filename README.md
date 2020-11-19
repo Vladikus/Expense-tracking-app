@@ -1,19 +1,15 @@
-# expenses_track
+# Expenses_Tracking App
 
-A new Flutter project.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+This application helps monitor your expense costs efficiently. This functionality makes it convenient to input, store, and calculate costs spent throughout the week. The potential user can better assess and improve their budget after reviewing costs spent.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Things to do
+- [ ] Add TextField/Form validators and Dialog Alerts where applicable.
+- [ ] Integrate Firebase database.
+- [ ] Implement Bloc/Provider State Manager. 
 
 
 
